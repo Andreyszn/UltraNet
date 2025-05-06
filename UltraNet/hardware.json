@@ -1,0 +1,12 @@
+[
+  {
+    "id": "321",
+    "name": "RTX",
+    "quantity": "4",
+    "price": "300000",
+    "description": "tarjeta grafica",
+    "type": "GPU",
+    "brand": "NVIDEA",
+    "conection": "pcie 4.0"
+  }
+]

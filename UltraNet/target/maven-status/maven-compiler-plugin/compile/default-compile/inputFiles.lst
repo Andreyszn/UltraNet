@@ -1,19 +1,28 @@
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\controller\hardware\HardwareController.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\controller\MainController.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\controller\user\UserController.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\model\Admin.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\model\Customer.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\model\dao\GenericDAOJSon.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\model\Hardware.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\model\User.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\UltraNet.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\admin\AdminData.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\admin\GUIAdmin.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\DataTable.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\GUIMain.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\user\ButtonsUser.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\user\GUIUser.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\user\hardware\ButtonsHardware.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\user\hardware\GUIHardware.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\user\hardware\HardwareData.java
-C:\Users\Blaith\Documents\NetBeansProjects\UltraNet\src\main\java\ucr\ac\cr\ultranet\view\user\UserData.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\controller\HardwareController.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\controller\MainController.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\controller\StoreController.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\controller\UserController.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\dao\GenericDAOJSon.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\model\Admin.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\model\AdminRecord.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\model\CartRecord.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\model\Hardware.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\model\HardwareRecord.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\model\Store.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\model\User.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\model\UserRecord.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\UltraNet.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\GUIMain.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\hardware\GUIHardware.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\hardware\HardwareData.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\hardware\HardwareTable.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\hardware\MotherBoardData.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\LoginData.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\PanelButtons.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\RegisterUserData.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\store\CartTable.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\store\GUIStore.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\store\ShoppingCart.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\store\StoreButtons.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\user\GUIUser.java
+C:\Users\Blaith\Downloads\UltraNet [kilo de tortillas]\UltraNet\src\main\java\com\ultranet\view\user\UserTable.java

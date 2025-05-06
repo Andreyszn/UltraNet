@@ -1,0 +1,72 @@
+[
+  {
+    "id": "777",
+    "name": "Tralalero Tralala",
+    "email": "Onooolapolizitcia@gmail.com",
+    "type": "Administrator",
+    "password": "AAAA"
+  },
+  {
+    "id": "123",
+    "name": "admin",
+    "email": "admin@yahoo.net",
+    "type": "Administrator",
+    "password": "mondongo"
+  },
+  {
+    "id": "01",
+    "name": "admin",
+    "email": "eljajas",
+    "type": "Administrator",
+    "password": "admin"
+  },
+  {
+    "id": "02",
+    "name": "soldado",
+    "email": "overwatch",
+    "type": "User",
+    "password": "76"
+  },
+  {
+    "id": "67",
+    "name": "elchavo",
+    "email": "lavencidad",
+    "type": "User",
+    "password": "67"
+  },
+  {
+    "id": "C4k231",
+    "name": "Andrey",
+    "email": "Andreygdo18@gmail.com",
+    "type": "User",
+    "password": "Yack212@r"
+  },
+  {
+    "id": "123",
+    "name": "sdsds",
+    "email": "sdsdsd",
+    "type": "User",
+    "password": "sdsds"
+  },
+  {
+    "id": "123",
+    "name": "fdf",
+    "email": "ddfdf",
+    "type": "User",
+    "password": "dfdf"
+  },
+  {
+    "id": "C4k231",
+    "name": "Andrey",
+    "email": "Andrey@gmail.com",
+    "type": "User",
+    "password": "Yack212"
+  },
+  {
+    "id": "534545",
+    "name": "gfdgfg",
+    "email": "hghhgh",
+    "type": "User",
+    "password": "ghghgh"
+  }
+]
